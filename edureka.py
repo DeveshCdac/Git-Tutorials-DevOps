@@ -15,3 +15,4 @@ print("Welcome to CDAC !")
 # git pull origin master --allow-unrelated-histories
 # check your GitHub
 
+Thanks
